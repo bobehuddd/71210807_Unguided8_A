@@ -1,0 +1,15 @@
+Terdapat 4 buah cangkir kosong (4, 9, 5, 7) yang akan di isi dengan kopi.
+Berdasarkan ilustrasi gambar di bawah, tentukan cangkir mana yang terisi lebih dahulu serta berikan 
+penjelasannya ! 
+
+Cangkir yang terisi terlebih dahulu adalah cangkir nomor 9
+
+Penjelasan:
+-Kopi pertama mengisi kotak pertama
+-Kopi pertama kali mengalir ke pipa sebelah kiri karena posisinya yang lebih rendah dibandingkan pipa sebelah kanan
+-Kopi mengalir dan mengisi kotak kedua yang di sebelah kiri
+-Kopi mengalir dan mengisi 2 kotak yang di sebelah kanan
+-Cangkir nomor 9 terisi, sedangkan cangkir nomor 4 tidak dapat terisi karena pipa yang menuju cangkir 4 tertutup
+-Kopi mengisi kedua kotak yang ada di sebelah kanan
+-Kopi memenuhi kedua kotak dan mengalir ke pipa kanan dan kiri
+-Cangkir nomor 5 terisi, sedangkan cangkir nomor 7 tidak dapat terisi karena pipa yang menuju cangkir 7 tertutup
